@@ -1,4 +1,4 @@
-# Datasets (large; the images come from Kaggle, see README)
+# Datasets
 dogs-vs-cat-small/
 dogs-vs-cat-small.zip
 salary.zip
@@ -6,28 +6,12 @@ salary.zip
 # macOS
 .DS_Store
 
-# Jupyter
 .ipynb_checkpoints/
 */.ipynb_checkpoints/
 
-# Python
 __pycache__/
 *.py[cod]
 .venv/
 venv/
 env/
-
-# LaTeX build artifacts
-*.aux
-*.log
-*.out
-*.toc
-*.lof
-*.lot
-*.fls
-*.fdb_latexmk
-*.synctex.gz
-*.bbl
-*.blg
-*.bcf
-*.run.xml
+xml
